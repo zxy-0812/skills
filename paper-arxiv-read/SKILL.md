@@ -1,7 +1,10 @@
 ---
-name: read-arxiv-paper
-description: Use this skill when when asked to read an arxiv paper given an arxiv URL
+name: paper-arxiv-read
+description: Use this skill when asked to read an arxiv paper given an arxiv URL. Triggers on "read arxiv paper", "arxiv URL", "读 arxiv 论文", arxiv.org links.
 ---
+
+# ABOUTME: Read an arxiv paper from a given arxiv URL
+# ABOUTME: Normalizes the URL, fetches the PDF, and extracts the content
 
 You will be given a URL of an arxiv paper, for example:
 

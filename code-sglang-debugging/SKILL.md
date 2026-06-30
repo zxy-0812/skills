@@ -1,7 +1,11 @@
 ---
-description: 深入分析和排查 SGLang 项目中的各种问题，包括环境配置、SGLang 报错、vLLM 报错、脚本报错等。通过系统化的诊断流程、代码分析和测试验证来定位和修复问题。
-alwaysApply: false
+name: code-sglang-debugging
+description: 深入分析和排查 SGLang 项目中的各种问题，包括环境配置、SGLang 报错、vLLM 报错、脚本报错等。通过系统化的诊断流程、代码分析和测试验证来定位和修复问题。Triggers on "SGLang 报错"、"vLLM 报错"、"环境配置"、"脚本报错"、"调试"、"debug"。
 ---
+
+# ABOUTME: SGLang/vLLM 项目问题的系统化排查与调试技能
+# ABOUTME: 覆盖环境配置、运行时报错、脚本错误的诊断与修复
+
 # 问题排查与调试
 
 系统化的问题排查和调试技能，帮助您深入分析并解决 SGLang 项目中的各种问题。
